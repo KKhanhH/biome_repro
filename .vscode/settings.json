@@ -1,0 +1,8 @@
+{
+    "biome.enabled": true,
+    "biome.requireConfigFile": true,
+    "biome.lsp.trace.server": "verbose",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    },
+}
